@@ -1,0 +1,24 @@
+Requisitos:
+
+- Cada membro terá 3 esportes preferidos. - OK
+- O site será uma página única chamada: Index.html - OK
+- No topo da página, um link para direcionar para a área de cada membro. - OK
+
+ O cabeçalho da pagina ira conter uma lista com o nome dos integrantes. - OK
+ O conteudo principal da pagina ira conter uma seção para cada um dos integrantes contendo tres esportes favoritos de cada um. - OK
+ Ao clicar no nome de algum integrante ira descer para uma das sessões. - OK
+ E um bot�o de voltar para ir ao inicio. - OK
+ 
+ Esportes de cada um:
+ andre:
+ futebol, volei, automobilismo. - OK
+ Carlos:
+ futebol, basquete, bilhar. - OK
+ vinicius:
+ futebol, basquete, futebol americano. - OK
+ Samuel:
+ poker, tenis, skate. - OK 
+ Alex:
+ xadrez, poker, damas. - OK
+ Cinthia:
+ Truco, Ciclismo, Patins. - OK 
