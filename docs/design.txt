@@ -1,7 +1,7 @@
-O cabeçalho da pagina ira conter uma lista com o nome dos integrantes
-O conteudo principal da pagina ira conter uma seção para cada um dos integrantes contendo tres esportes favoritos de cada um
-Ao clicar no nome de algum integrante ira descer para uma das sessões
-E um botão de voltar para ir ao inicio.
+O cabeÃ§alho da pagina ira conter uma lista com o nome dos integrantes
+O conteudo principal da pagina ira conter uma seÃ§Ã£o para cada um dos integrantes contendo tres esportes favoritos de cada um
+Ao clicar no nome de algum integrante ira descer para uma das sessÃµes
+E um botÃ£o de voltar para ir ao inicio.
 
 Esportes de cada um:
 andre 
@@ -14,4 +14,5 @@ Samuel
 poker, tenis, skate
 Alex
 xadrez, poker, damas
-cintina
+cinthia
+truco, ciclismo, patins
