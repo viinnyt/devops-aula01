@@ -1,0 +1,18 @@
+O cabeçalho da pagina ira conter uma lista com o nome dos integrantes
+O conteudo principal da pagina ira conter uma seção para cada um dos integrantes contendo tres esportes favoritos de cada um
+Ao clicar no nome de algum integrante ira descer para uma das sessões
+E um botão de voltar para ir ao inicio.
+
+Esportes de cada um:
+andre 
+futebol, volei, automobilismo
+Carlos
+futebol, basquete, bilhar
+vinicius
+futebol, basquete, futebol americano
+Samuel
+poker, tenis, skate
+Alex
+xadrez, poker, damas
+cinthia
+truco, ciclismo, patins
