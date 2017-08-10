@@ -1,0 +1,5 @@
+Requisitos:
+
+- Cada membro terá 3 esportes preferidos.
+- O site será uma página única chamada: Index.html
+- No topo da página, um link para direcionar para a área de cada membro.
